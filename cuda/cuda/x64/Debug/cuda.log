@@ -1,0 +1,11 @@
+﻿  sysinfo.cpp
+d:\utcn\an 3\semestrul 2\scs\cuda\cuda\sysinfo.cpp(130): warning C4101: 'Buffer': unreferenced local variable
+d:\utcn\an 3\semestrul 2\scs\cuda\cuda\sysinfo.cpp(233): warning C4244: 'initializing': conversion from '__int64' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 2\scs\cuda\cuda\sysinfo.cpp(265): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\utcn\an 3\semestrul 2\scs\cuda\cuda\sysinfo.cpp(282): warning C4244: 'initializing': conversion from '__int64' to 'float', possible loss of data
+  cuda.vcxproj -> D:\UTCN\An 3\Semestrul 2\SCS\cuda\x64\Debug\cuda.exe
+  cuda.vcxproj -> D:\UTCN\An 3\Semestrul 2\SCS\cuda\x64\Debug\cuda.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\bin\cudart*.dll" "D:\UTCN\An 3\Semestrul 2\SCS\cuda\x64\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\bin\cudart32_91.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.1\bin\cudart64_91.dll
+          2 file(s) copied.

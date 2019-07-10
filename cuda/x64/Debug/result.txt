@@ -1,0 +1,33 @@
+GPU Information: 
+GPU: GeForce GT 740M
+Total amount of global video memory: 4096 MB.
+2 multiprocessors, 192 CUDA Cores/MP, total CUDA Cores: 384
+GPU Max Clock rate: 895 MHz (0.895) GHz
+Memory Clock rate: 901MHz (0.901) GHz
+Memory Bus Width: 128 bits
+L2 Cache Size: 262144 bytes (256) MB
+Theoretical GPU Bandwidth: 26.8519 GB/s
+CPU Information: 
+CPU Type:       Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz
+Number of Cores: 8
+CPU Frequency: 2395 Mhz, 2.33887 Ghz
+RAM Memory Information: 
+System RAM: 8077 MB
+External Memory/HDD Information: 
+Drive C:\ 
+Total space: 98987.1 MB, 96.6671 GB
+Free space: 9515.39 MB, 9.29238 GB
+Drive D:\ 
+Total space: 535402 MB, 522.853 GB
+Free space: 162726 MB, 158.912 GB
+Drive E:\ 
+Drive F:\ 
+Total space: 99.9961 MB, 0.0976524 GB
+Free space: 67.4297 MB, 0.0658493 GB
+Total amount of external memory/HDD size: 619.618 GB
+CPU Benchmark time = 9791 milliseconds, 9.791 seconds.
+CPU Benchmark final score: 97910
+RAM Benchmark time = 627 milliseconds, 0.627 seconds.
+RAM Benchmark final score: 62700
+Effective GPU Bandwidth: 8.26242 GB/s
+Final benchmark score of the system: 81464.6
